@@ -1,10 +1,10 @@
 <?php
-$name = $_POST['user_name'];
+$name = $_POST['firstName'];
 $lastName = $_POST['lastName'];
-$select = $_POST['house'];
-$mail = $_POST['user_email'];
-$tel = $_POST['numero'];
-$message = $_POST['user_message'];
+$select = $_POST['liste'];
+$mail = $_POST['courriel'];
+$tel = $_POST['num'];
+$message = $_POST['message'];
 ?>
 
 <!DOCTYPE html>
